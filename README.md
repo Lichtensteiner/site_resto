@@ -1,1 +1,4 @@
-# site_resto
+Restaurant
+==========
+
+A template for Restaurant business
